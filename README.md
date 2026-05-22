@@ -18,6 +18,16 @@ This project is built following strict **Clean Architecture (Feature-First)** pa
 
 ---
 
+## 📱 Screenshots
+
+<p align="center">
+  <img src="doc/Screenshot_1779426566.png" width="30%" alt="Empty State" />
+  <img src="doc/Screenshot_1779426823.png" width="30%" alt="Recognized Text" />
+  <img src="doc/Screenshot_1779426834.png" width="30%" alt="Line Search" />
+</p>
+
+---
+
 ## 🛠️ Technology Stack
 
 | Concern | Technology |
